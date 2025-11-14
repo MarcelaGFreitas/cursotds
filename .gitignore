@@ -1,0 +1,5 @@
+# Vamos colocar aqui tudo que não queremos que seja enviado para o git 
+# nao quero que acessem modulo e env local
+
+.env.local
+/node_modules
